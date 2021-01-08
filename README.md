@@ -24,7 +24,7 @@
 
 # 2、Vue 3.0 所采用的 Composition Api 与 Vue 2.x 使用的 Options Api 有什么区别？
 
-逻辑代码全部封装在函数内部，不会分散在不同的位置，也方便重用
+逻辑代码全部封装在函数内部，不会分散在不同的位置，也方便重用，类似 react hooks
 
 # 3、Proxy 相对于 Object.defineProperty 有哪些优点？
 
